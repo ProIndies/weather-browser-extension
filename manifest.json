@@ -1,0 +1,12 @@
+{
+    "name": "Weather Pro Indies",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "pi-weather-128.png"
+    },
+    "icons": {
+        "128": "pi-weather-128.png"
+    }
+}
